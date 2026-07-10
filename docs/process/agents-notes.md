@@ -1,3 +1,7 @@
+# Moved
+
+Canonical agent map: **[/CONTRIBUTING.md](../../CONTRIBUTING.md)**.
+
 # CLAUDE.md — PolyMesh (working name)
 
 Adaptive/hybrid polyhedral mesh generator co-designed with an FEA solver.
@@ -40,14 +44,14 @@ bulk regions (flat faces, uniform-stress volumes) use large cheap elements.
 
 ## Definitions of done
 - Code + unit tests + (if physics-touching) a verification case in `bench/`.
-- `cargo test --workspace` green, benchmarks not regressed beyond stated tolerance.
-- Public APIs documented with rustdoc including units (SI throughout: m, Pa, N).
+- `ctest --test-dir build` green; benchmarks not regressed beyond stated tolerance.
+- Public APIs documented in headers with units (SI throughout: m, Pa, N).
 
 ## Licensing
-**Decided: AGPL-3.0-or-later** (ADR-0002). All source files carry
-`// SPDX-License-Identifier: AGPL-3.0-or-later`. Dependency policy:
+**Decided: BSD-3-Clause** (ADR-0002). All source files carry
+`// SPDX-License-Identifier: BSD-3-Clause`. Dependency policy:
 MIT/Apache-2.0 preferred, LGPL acceptable (e.g. OpenCASCADE bindings), any
-GPL-family dep must be AGPL-compatible. Dual commercial licensing stays open,
+GPL-family dep must be BSD-3-Clause-compatible. Dual commercial licensing stays open,
 so no external contributions without a CLA/assignment policy in place.
 
 ## Git & attribution
