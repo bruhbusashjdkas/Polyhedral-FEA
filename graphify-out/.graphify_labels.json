@@ -141,6 +141,7 @@
   "139": "BENCHMARKS — Verification Suite & Anti-Cheat Design",
   "140": "ADR-0010: Mesh data structure — keep face-based; edge index optional",
   "141": "string",
+  "142": "run_calculix_cantilever.py",
   "143": "ADR-0011: VEM k=1 for polyhedra",
   "144": "Quickstart (Ubuntu)",
   "145": "test_d6_bench_smoke.cpp",
@@ -157,6 +158,7 @@
   "156": "ADR-0014: A posteriori Dörfler seed remesh",
   "157": "Idea harvest: fea-madness (Grok-generated spec, 2026-07-10)",
   "158": "GroupBoxFrame",
+  "159": "Recommended approach (not all alternatives)",
   "160": "README.md",
   "161": "Holdout Geometry Audit Protocol",
   "162": "CalculiX First Peer Solver Priority",
@@ -301,5 +303,16 @@
   "301": "unit_box.stl",
   "302": "VTU output (displacement, von Mises)",
   "303": "Auto CG Above 8000 Free DOFs",
-  "304": "Element Types: tet/hex/prism/pyramid/VEM polyhedra"
+  "304": "Element Types: tet/hex/prism/pyramid/VEM polyhedra",
+  "305": "mesh_preview.py",
+  "306": "Element",
+  "307": "8. Graphify (for agents)",
+  "308": "Implementation notes (for coding agents)",
+  "309": "PROGRESS",
+  "310": "solve",
+  "311": "timestamp",
+  "312": "run_mesher_scoreboard.py",
+  "313": "Verification",
+  "314": "case_id",
+  "315": "Context"
 }

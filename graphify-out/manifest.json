@@ -220,8 +220,8 @@
     "semantic_hash": ""
   },
   "src/pipeline/src/scene.cpp": {
-    "mtime": 1783730586.4230669,
-    "ast_hash": "1e92a9e5659561b177bcf8e26ebec881",
+    "mtime": 1783732959.253439,
+    "ast_hash": "f53fe2b623c2416ca57efa801676b062",
     "semantic_hash": ""
   },
   "tests/support/mms.cpp": {
@@ -450,8 +450,8 @@
     "semantic_hash": ""
   },
   "docs/progress.md": {
-    "mtime": 1783730548.5281227,
-    "ast_hash": "558054f6283701edd396eba32d60632b",
+    "mtime": 1783736421.2707353,
+    "ast_hash": "eeb5629749a903e7b975ea9bea3591f8",
     "semantic_hash": ""
   },
   "docs/spec.md": {
@@ -680,8 +680,8 @@
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/hybrid_fill.hpp": {
-    "mtime": 1783727444.5900607,
-    "ast_hash": "deb9c59fee0177891f08739b6983724e",
+    "mtime": 1783732475.796624,
+    "ast_hash": "1dd67fae1ece430c787e5078dc619f36",
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/local_refine.hpp": {
@@ -690,8 +690,8 @@
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/mixed_fill.hpp": {
-    "mtime": 1783727444.5900607,
-    "ast_hash": "20905f77ad3b6374a0659a1212cf08ac",
+    "mtime": 1783732475.796624,
+    "ast_hash": "a7fce21fc9e325f134cf4d5209e9f2ec",
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/prism_fill.hpp": {
@@ -705,8 +705,8 @@
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/surface_project.hpp": {
-    "mtime": 1783727444.5900607,
-    "ast_hash": "f004ff03b4f34cdf0cb6790e8a120bae",
+    "mtime": 1783732475.796624,
+    "ast_hash": "2f3d1a896ef4529b7d5720bb28de114c",
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/tet_fill.hpp": {
@@ -730,8 +730,8 @@
     "semantic_hash": ""
   },
   "src/mesh/src/hybrid_fill.cpp": {
-    "mtime": 1783730586.3819976,
-    "ast_hash": "0dc27b63e64f61d9315b02f94a1d76df",
+    "mtime": 1783732571.704866,
+    "ast_hash": "64f6ada7e918b49a1119c05dc1d019c0",
     "semantic_hash": ""
   },
   "src/mesh/src/local_refine.cpp": {
@@ -740,8 +740,8 @@
     "semantic_hash": ""
   },
   "src/mesh/src/mixed_fill.cpp": {
-    "mtime": 1783730586.3649216,
-    "ast_hash": "33e60c92e3db047ddd1db60add73f57a",
+    "mtime": 1783733032.3735988,
+    "ast_hash": "76fd37b2b24dcc28bdb08e0a9d2fc447",
     "semantic_hash": ""
   },
   "src/mesh/src/prism_fill.cpp": {
@@ -755,8 +755,8 @@
     "semantic_hash": ""
   },
   "src/mesh/src/surface_project.cpp": {
-    "mtime": 1783727444.5904958,
-    "ast_hash": "dd2e30c10e0a3f73790e529bd2dcbd45",
+    "mtime": 1783736137.367983,
+    "ast_hash": "5a3693857740bb56e76482c93c7c58fa",
     "semantic_hash": ""
   },
   "src/mesh/src/tet_fill.cpp": {
@@ -935,8 +935,8 @@
     "semantic_hash": ""
   },
   "docs/decisions/0012-hybrid-graded-tet.md": {
-    "mtime": 1783730511.565561,
-    "ast_hash": "38d333b5b93981b0bc1101d0b9ba8173",
+    "mtime": 1783736397.9090025,
+    "ast_hash": "31fd3d22cdac2d55e89d1820d685a514",
     "semantic_hash": ""
   },
   "docs/decisions/0013-hex-pyramid-transition.md": {
@@ -985,13 +985,13 @@
     "semantic_hash": ""
   },
   "src/mesh/include/mesh/cell_stamp.hpp": {
-    "mtime": 1783727444.5900013,
-    "ast_hash": "9351820dcc440bfb7baf02f326fa026e",
+    "mtime": 1783732475.796624,
+    "ast_hash": "148b23c526e020d6b96b00ca32917c1a",
     "semantic_hash": ""
   },
   "src/mesh/src/cell_stamp.cpp": {
-    "mtime": 1783727444.5900607,
-    "ast_hash": "18c97f5c8edc9fa0f09400e1c782f799",
+    "mtime": 1783732475.796624,
+    "ast_hash": "693c7c67e48f1d61920f740d2386f0a6",
     "semantic_hash": ""
   },
   "tests/test_mesh_conformity.cpp": {
